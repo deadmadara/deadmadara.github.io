@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Перевод чисел в разные системы счисления (C#).
+title: Перевод чисел в разные системы счисления (C#)
 comments: true
 published: true
 ---
